@@ -1,0 +1,10 @@
+﻿[
+    {
+        "Name": "test1",
+        "Outcome": "Failed"
+    },
+    {
+        "Name": "test2",
+        "Outcome": "Passed"
+    }
+]
