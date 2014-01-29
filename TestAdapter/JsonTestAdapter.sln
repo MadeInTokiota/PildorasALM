@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonTestAdapter", "JsonTestAdapter.csproj", "{EAF05472-50E4-4728-BF51-5F61072619D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonTestAdapter", "JsonTestAdapter\JsonTestAdapter.csproj", "{EAF05472-50E4-4728-BF51-5F61072619D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonTestAdapterVSIX", "..\JsonTestAdapterVSIX\JsonTestAdapterVSIX.csproj", "{3DC7EE38-6893-4557-A2A7-2DC725C16FBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonTestAdapterVSIX", "JsonTestAdapterVSIX\JsonTestAdapterVSIX.csproj", "{3DC7EE38-6893-4557-A2A7-2DC725C16FBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonTestAdapter.Tests", "..\JsonTestAdapter.Tests\JsonTestAdapter.Tests.csproj", "{86C0FF4E-E6BA-4EB8-B1BC-D02B8E39D55B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonTestAdapter.Tests", "JsonTestAdapter.Tests\JsonTestAdapter.Tests.csproj", "{86C0FF4E-E6BA-4EB8-B1BC-D02B8E39D55B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
