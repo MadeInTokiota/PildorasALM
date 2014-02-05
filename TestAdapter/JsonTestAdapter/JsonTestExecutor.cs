@@ -12,6 +12,8 @@ namespace JsonTestAdapter
     [ExtensionUri(JsonTestExecutor.ExecutorUriString)]
     public class JsonTestExecutor : ITestExecutor
     {
+	
+	
         public const string ExecutorUriString = "executor://JsonTestExecutor/v1";
         public static readonly Uri ExecutorUri = new Uri(JsonTestExecutor.ExecutorUriString);
         private bool mCancelled;

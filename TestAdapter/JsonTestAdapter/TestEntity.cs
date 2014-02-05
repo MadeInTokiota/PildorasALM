@@ -10,6 +10,7 @@ namespace JsonTestAdapter
 
     public class Test
     {
+	
         [JsonProperty]
         public string Name { get; set; }
         [JsonProperty]
